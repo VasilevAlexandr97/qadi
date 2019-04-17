@@ -48,3 +48,7 @@ Feature: Ui test # ui_test.feature:1
 19 steps passed, 0 failed, 0 skipped, 0 undefined
 Took 0m28.353s
 ```
+
+#Второе задание
+
+Не очень понял, могу ли я использовать python для него?
